@@ -1,5 +1,4 @@
-
-![Damian_Marat](https://user-images.githubusercontent.com/104215161/167204170-7f95195b-c68a-4da3-8785-f2979eb3d90a.jpg)          # Power BI Dashboard Portfolio
+        # Power BI Dashboard Portfolio
 
                                  
 
